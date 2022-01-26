@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        body {background-color: rgb(255, 111, 97);}
+        header {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 120%;
+            background-color: rgb(56, 51, 51);
+            color: white;
+            height: 70px;
+            font-size: 2rem;
+
+        }
+            
+
+
+
+    </style>
+    <head>
+        <meta charset="utf-8">
+        <title>daimonthedeveloper</title>
+        <link rel ="shortcut icon" href="favicon.ico"/>
+
+
+
+
+    </head>
+
+    
+    
+    
+    
+    <body>
+        <nav>
+            
+                <h1 style="color: white;">---San Sebastian Cheesecake---</h1>
+
+                <hr>
+           
+        </nav>
+        <img src="san sebastian.jpg" width="300">
+        <h2 style="color: white;">San Sebastian Cheesecake(Bask Cheesecake)(La Vina San Sebastian Yanık Cheesecake) olarak da bilinir. Bu Fırında cheesecake tarifi, San Sebastián şehrinin eski mahallesindeki 31 de Agosto Caddesi'nde bulunan La Vina adlı küçük bir pastanede 1990'larda ilk yapılmaya başlandı. <br>Günümüzde Türkiye 'de pastanelerde satışı yapılmaktadır.
+             Yüksek sıcaklıkta pişirilir. Yüksek sıcaklık iç kısmı kremsi ve muhallebi gibi tutarken üst kısmı etkili bir şekilde karamelize eder.</h2>
+            <a href="https://tr.wikipedia.org/wiki/San_Sebastian_Cheesecake"><h3>Vikipedi</h3></a>
+        
+
+        <h2 style="color: black;"><u>Tarifi için malzemeler:</u></h2>
+        <ul>
+            <h3 style="color: white;">
+
+                <li>4 adet yumurta(oda sıcaklığında)</li></a>
+                <li>2.5 su bardağı pudra şekeri</li>
+                <li>400 gram krem peynir</li>
+                <li>400 gram labne peyniri</li>
+                <li>150 gram kaymak</li>
+                <li>1 su bardağı krema</li>
+                <li>4 yemek kaşığı un</li>
+                <li>1.5 yemek kaşığı nişasta</li>
+            </h3>
+            
+        </ul>
+
+
+        <ol>
+            <h3 style="color: white;">
+
+             <li>Fırını 240 dereceye ayarlayın. Yumurta ve pudra şekerini büyük bir karıştırma kasesinin içerisine alın. <br>Mikser yardımıyla şeker güzelce eriyene kadar 5-6 dakika kadar çırpın.</li>
+             <li>Ayrı bir kasede krem peynir, kaymak ve labne peynirini çırpın. Üzerine krema, un ve nişastayı ekleyip düşük ayarda tekrar çırpın. Dilerseniz bu aşamada vanilya da ilave edebilirsiniz.</li>
+             <li>Son olarak yumurtalı karışımı labneli karışımın üzerine ilave edin ve spatula yardımıyla alttan üste doğru güzelce karıştırın.</li>
+             <li>23 cm'lik bir kelepçeli kalıbın içerisine çift pişirme kağıdı yerleştirin. Üzerine karışımı ilave edin ve üzerini düzeltin.</li>
+             <li>240 derece fansız ayarladığınız fırında 15 dakika üzerini kızartın. Ardından fırının derecesini 200 dereceye düşürün ve 20 dakika daha pişirin.</li>
+             <li>Piştikten sonra fırını kapatın ve kapağını hafif aralayıp minimum 20 dakika kadar ilk sıcaklığının geçmesini bekleyin. Ardından çıkarıp oda sıcaklığında soğumaya bırakın.</li>
+             <li>Oda sıcaklığında dinlendirdikten sonra en az 8 saat, tercihen 1 gün dinlendirin. Yağlı kağıdını da çıkarıp dilimleyerek servis edin. Üzerine çikolata sosu ya da meyve sosu da gezdirebilirsiniz. Afiyet olsun!</li>              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </h3>
+
+
+
+
+
+
+
+
+
+        </ol>
+   
+
+
+
+
+   
+    </body>
+
+
+
+
+</html>
